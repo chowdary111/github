@@ -1,1 +1,2 @@
 # github
+poll scm specifed
